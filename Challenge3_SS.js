@@ -26,4 +26,4 @@ console.log(`Total cost is Rs. ${totalCost} using String Interpolation`);
 let cof=5.99;
 let bag=2.95;
 console.log("Total cost: $",cof+bag);
-// sandeep
+// sandeeppp
